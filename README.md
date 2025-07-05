@@ -1,5 +1,17 @@
 # Hello, I'm Padmapriya Vijayaragava Rengaraj! 👋
 
+## 📊 GitHub Stats
+
+[![Padmapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmapriyavj&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmapriyavj&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![📈 GitHub Streak](https://streak-stats.demolab.com?user=padmapriyavj&theme=tokyonight)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=padmapriyavj&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/padmapriyavj?label=Follow&style=social)
+
+
 ## About Me
 
 I’m a passionate Computer Science graduate student at **California State University, Fullerton**, building a strong foundation in full-stack development, DevOps, and machine learning. With a B.Tech in Information Technology from **Sri Sairam Engineering College**, I bring both academic rigor and real-world experience.
