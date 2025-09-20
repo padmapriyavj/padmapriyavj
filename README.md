@@ -35,18 +35,40 @@ My interests span across **backend development**, **cloud architecture**, and **
 
 ## 🛠️ Technologies & Tools
 
+### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+### Frameworks & Libraries  
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Material-UI](https://img.shields.io/badge/-Material--UI-blue?style=flat-square&logo=mui)
+
+### Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis)
+
+### DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+### Machine Learning & AI  
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+
+### Design & Collaboration  
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 
 ---
 
