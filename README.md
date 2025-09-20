@@ -81,9 +81,18 @@ My interests span across **backend development**, **cloud architecture**, and **
 
 ## 🚀 My Projects
 
-- **HealthyChamps** – Nutrition-based meal planner app (Angular, Node.js, PostgreSQL, JWT)  
-- **GeoShake Prediction** – Real-time earthquake magnitude prediction using GNNs and PyTorch  
-- **Posture Detection IoT System** – Ultrasonic-based wearable with real-time web dashboard  
+- **HealthyChamps** – Nutrition-based meal planner app (Angular, Node.js, PostgreSQL, JWT).  
+  Built a secure, scalable full-stack application with JWT authentication and CI/CD pipelines.  
+- **GeoShake Prediction** – Real-time earthquake magnitude prediction using GNNs and PyTorch.  
+  Improved accuracy by 18% using Graph Neural Networks and PyTorch Geometric.  
+- **Posture Detection IoT System** – Ultrasonic-based wearable with real-time web dashboard.  
+  Published as a patent and presented at IC3IoT 2024.  
+
+- **DevOps Orchestra** – AI-driven DevOps automation system.  
+  Reduced manual intervention by 95% and production errors by 50% via autonomous Kafka agents, IaC provisioning, and real-time rollbacks.  
+- **PulseBoard** – IoT telemetry analytics platform (React, Redux, GraphQL, Kafka, Redis).  
+  Achieved sub-200ms latency, ~90% anomaly detection accuracy, and deployed microservices using Docker + Kubernetes.
+
 
 ---
 
