@@ -29,8 +29,6 @@ My interests span across **backend development**, **cloud architecture**, and **
 - Cloud Computing & DevOps  
 - Artificial Intelligence & GNNs  
 - UI/UX & Web App Optimization  
-- Open Source Contributions  
-
 ---
 
 ## 🛠️ Technologies & Tools
