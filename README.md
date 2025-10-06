@@ -16,7 +16,7 @@
 
 I’m a passionate Computer Science graduate student at **California State University, Fullerton**, building a strong foundation in full-stack development, DevOps, and machine learning. With a B.Tech in Information Technology from **Sri Sairam Engineering College**, I bring both academic rigor and real-world experience.
 
-During my internship at **DigitranIT Software Solutions**, I collaborated with a cross-functional team to develop **HealthyChamps**, a personalized meal-planning web app built with Angular, Node.js, and PostgreSQL. I implemented secure RESTful APIs, JWT-based authentication, and CI/CD pipelines using Docker and GitHub Actions — significantly improving deployment efficiency and user engagement.
+During my internship at **DigitranIT Software Solutions**, I collaborated with a cross-functional team to develop **HealthyChamps**, a personalized meal-planning web app built with Angular, Node.js, and PostgreSQL. I implemented secure RESTful APIs, JWT-based authentication, and CI/CD pipelines using Docker and GitHub Actions — significantly improving deployment efficiency and user engagement .
 
 My interests span across **backend development**, **cloud architecture**, and **intelligent systems**. I’m constantly exploring technologies that bridge functionality and user experience while solving real-world challenges through scalable and maintainable code.
 
