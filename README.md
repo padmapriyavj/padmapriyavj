@@ -1,7 +1,7 @@
+<div align="center">
+
 # ✨ Hey there! I'm Padmapriya Vijayaragava Rengaraj 💜
 
-<div align="center">
-  
 ### 💻 Software Developer | 🚀 Full-Stack Engineer | ☁️ DevOps Enthusiast | 🤖 AI/ML Explorer
 
 *Building scalable systems and intelligent solutions, one commit at a time* ✨
@@ -15,6 +15,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ---
 
 ## 🌸 About Me
@@ -23,7 +25,13 @@ I'm a Computer Science grad student at **California State University, Fullerton*
 
 My journey spans from developing nutrition-planning apps at **DigitranIT Solutions** to architecting multi-agent DevOps systems and IoT analytics platforms. I thrive on solving complex problems with clean code, scalable architecture, and a dash of creativity!
 
+<br>
+
+<img align="right" alt="Coding" width="400" style="margin-left: 50px; margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
 ### 🎯 What I'm Currently Up To
+
+<br>
 
 ```typescript
 const padmapriya = {
@@ -36,6 +44,10 @@ const padmapriya = {
   funFact: "🌟 Published IoT patent & presented at IC3IoT 2024"
 };
 ```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
@@ -136,6 +148,8 @@ const padmapriya = {
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ---
 
 ## 🛠️ Tech Toolbox
@@ -204,6 +218,8 @@ const padmapriya = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
@@ -277,6 +293,8 @@ const padmapriya = {
 **🎓 Bachelor of Technology in Information Technology** | GPA: 3.6  
 *Anna University (Sri Sairam Engineering College)* | July 2020 - May 2024
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ---
 
 ## 🌟 What Drives Me
@@ -296,6 +314,8 @@ while (alive) {
 I believe in building technology that's not just functional, but elegant and impactful. Whether it's optimizing database queries to shave off milliseconds, orchestrating containerized microservices, or training neural networks to detect earthquakes, I pour my heart into creating solutions that matter.
 
 **My philosophy**: Clean code is poetry, scalable systems are art, and teaching is the ultimate way to solidify knowledge. 💜
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
