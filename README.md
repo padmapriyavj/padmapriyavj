@@ -273,7 +273,7 @@ const padmapriya = {
 - Covering advanced topics: Dynamic Programming, Greedy Algorithms, NP-completeness
 
 ### 💻 Software Technical Consultant (Intern)
-**DigitranIT Software Solutions** | *March 2022 - June 2023*
+**DigitranIT Software Solutions** | *March 2022 - April 2024*
 - Built secure RESTful APIs with JWT & OAuth 2.0 authentication (RBAC)
 - Reduced API response time from 800ms → 300ms through query optimization
 - Implemented CI/CD pipeline reducing deployment time by 75% (2hrs → 30min)
